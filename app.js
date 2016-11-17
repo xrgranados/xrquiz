@@ -56,3 +56,6 @@ app.use(function(err, req, res, next) {
 
 
 module.exports = app;
+
+/* End of file app.js */
+/* Location: ./app.js */
